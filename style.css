@@ -1,0 +1,56 @@
+.container{
+    width: 600px;
+    margin: 30px auto;
+    background: #ddd;   
+    /* padding: 20px; */
+}
+.container .header{
+    padding: 20px;
+}
+.title{
+    font-family: Ephesis,cursive;
+    font-style: italic;
+    font-size: 32px;
+}
+.pera{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    
+}
+.btn{
+    padding:5px 10px; 
+    text-transform: uppercase;
+}
+.primary-btn{
+    background: blue;
+    color: white;
+}
+.secondary-btn{
+    background:rgb(87, 85, 85);
+    color: black;
+}
+.hover-hand:hover{
+cursor: pointer;
+
+}
+.hover-hand{
+    color: green;
+}
+.special-word{
+    color: red;
+    cursor: pointer;
+}
+.squar{
+    color blue;
+}
+.footer{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background: black;
+    color: white;
+    padding: 20px;
+
+    
+
+    }
